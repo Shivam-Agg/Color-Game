@@ -1,3 +1,4 @@
 # Color-Game
 RGB Color guessing fun game that helps you to build your understanding of colors.
-![alt text](https://drive.google.com/open?id=1AwFt4DnsZ1yhljqIRIqFm_dEYkPoPMPG)
+
+<img src="Screenshot (9).png" width="500">
